@@ -23,9 +23,14 @@ This project analyzes ~10,000 bank customer records to identify which member pro
 
 These findings point towards three targeted strategies:
 
-**1. Prioritize outreach to older, inactive members.** This segment is large enough to matter and narrow enough to target directly. Actionable goals include a dedicated relationship-manager check-in program or a re-engagement offer (e.g. waived fees or a rate incentive) for members who haven’t transacted in a defined recent window. 
-**2. Investigate the multi-product churn pattern before continuing to cross-sell as a retention lever.** The finding that more products correlates to higher churn suggests that product bundling isn’t matching what customers need, or product count is a downstream symptom rather than a cause. Before expanding programs, it’s worth a follow-up analysis on which product combinations are riskiest and whether sequencing (product added before vs. after signs of disengagement) clarifies cause vs. effect.
-**3. Treat Germany as a distinct market requiring its own retention strategy.** Germany’s elevated churn appears especially concentrated in its unusually large 100k-150k balance segment. This points to a market-specific issue possibly competitive pressure from other German banks targeting this balance range, or a service gap unique to that market. A focused root-cause review (e.g. customer surveys or competitive rate benchmarking) would be a reasonable next step.
+**1. Prioritize outreach to older, inactive members.** 
+This segment is large enough to matter and narrow enough to target directly. Actionable goals include a dedicated relationship-manager check-in program or a re-engagement offer (e.g. waived fees or a rate incentive) for members who haven’t transacted in a defined recent window. 
+
+**2. Investigate the multi-product churn pattern before continuing to cross-sell as a retention lever.** 
+The finding that more products correlates to higher churn suggests that product bundling isn’t matching what customers need, or product count is a downstream symptom rather than a cause. Before expanding programs, it’s worth a follow-up analysis on which product combinations are riskiest and whether sequencing (product added before vs. after signs of disengagement) clarifies cause vs. effect.
+
+**3. Treat Germany as a distinct market requiring its own retention strategy.** 
+Germany’s elevated churn appears especially concentrated in its unusually large 100k-150k balance segment. This points to a market-specific issue possibly competitive pressure from other German banks targeting this balance range, or a service gap unique to that market. A focused root-cause review (e.g. customer surveys or competitive rate benchmarking) would be a reasonable next step.
 
 This dataset shows churn risk is concentrated in identifiable, addressable segments rather than spread evenly across the customer base. Retention rates will go further if efforts are aimed at specific segments rather than applied uniformly.
 
@@ -38,3 +43,5 @@ This dataset shows churn risk is concentrated in identifiable, addressable segme
 ## Caveats
 
 Certain product-count or credit-score/balance cross-sections have small sample sizes. Findings involving small segments should be interpreted with appropriate caution rather than treated as broadly generalizable conclusions. 
+
+<img width="993" height="796" alt="Screenshot 2026-07-09 172140" src="https://github.com/user-attachments/assets/5944c752-3b73-4cca-9465-73cc92657dfd" />
