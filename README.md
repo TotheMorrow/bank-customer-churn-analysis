@@ -10,7 +10,7 @@ This project analyzes ~10,000 bank customer records from a fictitious dataset fo
 
 ## Dashboard
 
-<img width="993" height="796" alt="Screenshot 2026-07-09 172140" src="https://github.com/user-attachments/assets/5944c752-3b73-4cca-9465-73cc92657dfd" />
+<img width="996" height="797" alt="customer_churn_dashboard" src="https://github.com/user-attachments/assets/651a82d4-83e6-47c0-9421-e6a6d7fa7402" />
 
 ## Approach
 
