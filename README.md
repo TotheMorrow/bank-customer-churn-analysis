@@ -2,7 +2,15 @@
 
 ## Objective
 
-This project analyzes ~10,000 bank customer records to identify which member profiles carry the highest churn risk. The goal is to surface actionable segments a business intelligence team could use to target retention efforts, using SQL for data modeling and segmentation, Excel for exploratory analysis, and Tableau for an interactive dashboard.
+This project analyzes ~10,000 bank customer records from a fictitious dataset for the ABC multinational bank to identify which member profiles carry the highest churn risk. The goal is to surface actionable segments a business intelligence team could use to target retention efforts, using SQL for data modeling and segmentation, Excel for exploratory analysis, and Tableau for an interactive dashboard.
+
+## Dataset
+
+[Link to Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
+
+## Dashboard
+
+<img width="993" height="796" alt="Screenshot 2026-07-09 172140" src="https://github.com/user-attachments/assets/5944c752-3b73-4cca-9465-73cc92657dfd" />
 
 ## Approach
 
@@ -43,5 +51,3 @@ This dataset shows churn risk is concentrated in identifiable, addressable segme
 ## Caveats
 
 Certain product-count or credit-score/balance cross-sections have small sample sizes. Findings involving small segments should be interpreted with appropriate caution rather than treated as broadly generalizable conclusions. 
-
-<img width="993" height="796" alt="Screenshot 2026-07-09 172140" src="https://github.com/user-attachments/assets/5944c752-3b73-4cca-9465-73cc92657dfd" />
